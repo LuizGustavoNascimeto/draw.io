@@ -144,7 +144,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bqxIuPW8D5Lhnd6abq-N" name="Consultar Histórico Gestante">
-    <mxGraphModel dx="1323" dy="1070" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2093" dy="936" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
         <mxCell id="e4PoHNpziZCP2AX3NT2B-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="e4PoHNpziZCP2AX3NT2B-2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e4PoHNpziZCP2AX3NT2B-4" value="4. lista das gestante" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="e4PoHNpziZCP2AX3NT2B-2" edge="1" source="e4PoHNpziZCP2AX3NT2B-7">
+        <mxCell id="e4PoHNpziZCP2AX3NT2B-4" value="4. lista das gestante" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="e4PoHNpziZCP2AX3NT2B-2" source="e4PoHNpziZCP2AX3NT2B-7" edge="1">
           <mxGeometry x="0.0044" relative="1" as="geometry">
             <mxPoint x="55" y="130" as="targetPoint" />
             <mxPoint x="250" y="130" as="sourcePoint" />
@@ -164,17 +164,17 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-12" value="19. response: ConsultasAME[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="e4PoHNpziZCP2AX3NT2B-2" source="e4PoHNpziZCP2AX3NT2B-8">
+        <mxCell id="Azst6hLEx4qP39NNRROr-12" value="19. response: ConsultasAME[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="e4PoHNpziZCP2AX3NT2B-2" edge="1">
           <mxGeometry x="0.0048" relative="1" as="geometry">
             <mxPoint x="55" y="650" as="targetPoint" />
-            <mxPoint x="339.49999999999955" y="650.1800000000001" as="sourcePoint" />
+            <mxPoint x="15" y="340.0499999999997" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="220" y="650.1800000000001" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-13" value="20. response: ConsultaOdonto[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="e4PoHNpziZCP2AX3NT2B-2" source="e4PoHNpziZCP2AX3NT2B-6">
+        <mxCell id="Azst6hLEx4qP39NNRROr-13" value="20. response: ConsultaOdonto[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="e4PoHNpziZCP2AX3NT2B-2" source="e4PoHNpziZCP2AX3NT2B-6" edge="1">
           <mxGeometry x="0.0049" relative="1" as="geometry">
             <mxPoint x="55" y="690" as="targetPoint" />
             <mxPoint x="335" y="690" as="sourcePoint" />
@@ -184,15 +184,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-14" value="21. response:ConsultaEspecializado[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="e4PoHNpziZCP2AX3NT2B-2" source="e4PoHNpziZCP2AX3NT2B-8">
+        <mxCell id="Azst6hLEx4qP39NNRROr-14" value="21. response:ConsultaEspecializado[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="e4PoHNpziZCP2AX3NT2B-2" edge="1">
           <mxGeometry x="0.0048" relative="1" as="geometry">
             <mxPoint x="55" y="730" as="targetPoint" />
-            <mxPoint x="335" y="730" as="sourcePoint" />
+            <mxPoint x="15" y="340.0499999999997" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="210" y="730.1800000000001" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="e4PoHNpziZCP2AX3NT2B-2" vertex="1">
+          <mxGeometry x="45" y="230" width="10" height="459.82" as="geometry" />
         </mxCell>
         <mxCell id="e4PoHNpziZCP2AX3NT2B-5" value="&lt;div&gt;1. buscarPorNome(nome)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="e4PoHNpziZCP2AX3NT2B-2" target="e4PoHNpziZCP2AX3NT2B-7" edge="1">
           <mxGeometry x="0.0017" relative="1" as="geometry">
@@ -209,8 +212,11 @@
         <mxCell id="e4PoHNpziZCP2AX3NT2B-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="e4PoHNpziZCP2AX3NT2B-15" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="e4PoHNpziZCP2AX3NT2B-15">
+        <mxCell id="Azst6hLEx4qP39NNRROr-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="e4PoHNpziZCP2AX3NT2B-15" vertex="1">
           <mxGeometry x="45" y="170" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="e4PoHNpziZCP2AX3NT2B-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="e4PoHNpziZCP2AX3NT2B-15" vertex="1">
+          <mxGeometry x="50" y="260" width="10" height="330" as="geometry" />
         </mxCell>
         <mxCell id="e4PoHNpziZCP2AX3NT2B-21" value="&lt;div&gt;2. buscarPorNome(nome)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="e4PoHNpziZCP2AX3NT2B-7" target="e4PoHNpziZCP2AX3NT2B-18" edge="1">
           <mxGeometry x="0.0004" relative="1" as="geometry">
@@ -221,7 +227,7 @@
         <mxCell id="e4PoHNpziZCP2AX3NT2B-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="355" y="140" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="e4PoHNpziZCP2AX3NT2B-10" value="3. lista das gestantes com nome digitado" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1" source="e4PoHNpziZCP2AX3NT2B-15">
+        <mxCell id="e4PoHNpziZCP2AX3NT2B-10" value="3. lista das gestantes com nome digitado" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="e4PoHNpziZCP2AX3NT2B-15" edge="1">
           <mxGeometry x="0.0051" relative="1" as="geometry">
             <mxPoint x="365" y="180" as="targetPoint" />
             <mxPoint x="560" y="180" as="sourcePoint" />
@@ -231,25 +237,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="85" y="400.18" width="10" height="459.82" as="geometry" />
-        </mxCell>
-        <mxCell id="e4PoHNpziZCP2AX3NT2B-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="45" y="160.1" width="10" height="479.9" as="geometry" />
-        </mxCell>
-        <mxCell id="e4PoHNpziZCP2AX3NT2B-9" value="10. validarDados(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;exitX=0.971;exitY=0.101;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1" target="e4PoHNpziZCP2AX3NT2B-8">
-          <mxGeometry x="-0.3632" y="30" relative="1" as="geometry">
-            <mxPoint x="55.000000000000036" y="177.25989999999996" as="sourcePoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="110" y="240" />
-            </Array>
-            <mxPoint x="55.89000000000002" y="250.31690000000003" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="e4PoHNpziZCP2AX3NT2B-14" value="15. response: ConsultasAME[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" target="e4PoHNpziZCP2AX3NT2B-8" edge="1">
+        <mxCell id="e4PoHNpziZCP2AX3NT2B-14" value="15. response: ConsultasAME[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" edge="1">
           <mxGeometry x="0.0048" relative="1" as="geometry">
-            <mxPoint x="165" y="610" as="targetPoint" />
+            <mxPoint x="55" y="519.9999999999998" as="targetPoint" />
             <mxPoint x="850" y="420" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="530" y="520" />
@@ -257,21 +247,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e4PoHNpziZCP2AX3NT2B-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="45" y="280" width="10" height="330" as="geometry" />
-        </mxCell>
-        <mxCell id="e4PoHNpziZCP2AX3NT2B-19" value="11. buscarConsultasAME(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" parent="1" source="e4PoHNpziZCP2AX3NT2B-8" target="e4PoHNpziZCP2AX3NT2B-16" edge="1">
+        <mxCell id="e4PoHNpziZCP2AX3NT2B-19" value="11. buscarConsultasAME(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" parent="1" target="e4PoHNpziZCP2AX3NT2B-16" edge="1">
           <mxGeometry x="-0.0048" relative="1" as="geometry">
-            <mxPoint x="340" y="355" as="sourcePoint" />
+            <mxPoint x="55" y="340" as="sourcePoint" />
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="510" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-3" value="12. buscarConsultasOdonto(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-8" target="e4PoHNpziZCP2AX3NT2B-16">
+        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-3" value="12. buscarConsultasOdonto(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" parent="1" target="e4PoHNpziZCP2AX3NT2B-16" edge="1">
           <mxGeometry x="-0.0048" relative="1" as="geometry">
-            <mxPoint x="375" y="530.1800000000001" as="sourcePoint" />
+            <mxPoint x="55" y="560.1800000000001" as="sourcePoint" />
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="530" y="560.1800000000001" />
@@ -279,9 +266,9 @@
             <mxPoint x="655" y="530.1800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-4" value="13. buscarConsultasEspecializado(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-8" target="e4PoHNpziZCP2AX3NT2B-16">
+        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-4" value="13. buscarConsultasEspecializado(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" parent="1" target="e4PoHNpziZCP2AX3NT2B-16" edge="1">
           <mxGeometry x="-0.0048" relative="1" as="geometry">
-            <mxPoint x="370" y="640.1800000000001" as="sourcePoint" />
+            <mxPoint x="55" y="600.1800000000001" as="sourcePoint" />
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="520" y="600.1800000000001" />
@@ -289,9 +276,9 @@
             <mxPoint x="650" y="640.1800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-5" value="14. buscarTratamentoSifilis(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-8" target="e4PoHNpziZCP2AX3NT2B-16">
+        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-5" value="14. buscarTratamentoSifilis(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" parent="1" target="e4PoHNpziZCP2AX3NT2B-16" edge="1">
           <mxGeometry x="-0.0048" relative="1" as="geometry">
-            <mxPoint x="375" y="610.1800000000001" as="sourcePoint" />
+            <mxPoint x="55" y="630.1800000000001" as="sourcePoint" />
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="530" y="630.1800000000001" />
@@ -299,9 +286,9 @@
             <mxPoint x="655" y="610.1800000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-1" value="16. response: ConsultaOdonto[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-16" target="e4PoHNpziZCP2AX3NT2B-8">
+        <mxCell id="Azst6hLEx4qP39NNRROr-1" value="16. response: ConsultaOdonto[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" source="e4PoHNpziZCP2AX3NT2B-16" edge="1">
           <mxGeometry x="0.0049" relative="1" as="geometry">
-            <mxPoint x="375" y="740.1800000000001" as="targetPoint" />
+            <mxPoint x="55" y="400.0499999999997" as="targetPoint" />
             <mxPoint x="660" y="740.1800000000001" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="540" y="740.1800000000001" />
@@ -309,9 +296,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-2" value="17. response:ConsultaEspecializado[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-16" target="e4PoHNpziZCP2AX3NT2B-8">
+        <mxCell id="Azst6hLEx4qP39NNRROr-2" value="17. response:ConsultaEspecializado[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" source="e4PoHNpziZCP2AX3NT2B-16" edge="1">
           <mxGeometry x="0.0048" relative="1" as="geometry">
-            <mxPoint x="370" y="790.1800000000001" as="targetPoint" />
+            <mxPoint x="55" y="400.0499999999997" as="targetPoint" />
             <mxPoint x="650" y="790.1800000000001" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="520" y="780.1800000000001" />
@@ -319,9 +306,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-3" value="18. response: TratamentoSifilis[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-16" target="e4PoHNpziZCP2AX3NT2B-8">
+        <mxCell id="Azst6hLEx4qP39NNRROr-3" value="18. response: TratamentoSifilis[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" source="e4PoHNpziZCP2AX3NT2B-16" edge="1">
           <mxGeometry x="0.0049" relative="1" as="geometry">
-            <mxPoint x="375" y="790.1800000000001" as="targetPoint" />
+            <mxPoint x="55" y="400.0499999999997" as="targetPoint" />
             <mxPoint x="655" y="790.1800000000001" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="540" y="820.1800000000001" />
@@ -329,7 +316,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-6" value="&lt;div&gt;5. buscarPorId(id)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-3" target="Azst6hLEx4qP39NNRROr-7">
+        <mxCell id="Azst6hLEx4qP39NNRROr-6" value="&lt;div&gt;5. buscarPorId(id)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="e4PoHNpziZCP2AX3NT2B-3" target="Azst6hLEx4qP39NNRROr-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="150" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -339,10 +326,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="Azst6hLEx4qP39NNRROr-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="355" y="220" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-9" value="&lt;div&gt;6. buscarPorId(id)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Azst6hLEx4qP39NNRROr-7" target="Azst6hLEx4qP39NNRROr-8">
+        <mxCell id="Azst6hLEx4qP39NNRROr-9" value="&lt;div&gt;6. buscarPorId(id)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Azst6hLEx4qP39NNRROr-7" target="Azst6hLEx4qP39NNRROr-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="365" y="260" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -352,7 +339,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-10" value="7. gestante" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Azst6hLEx4qP39NNRROr-8" target="Azst6hLEx4qP39NNRROr-7">
+        <mxCell id="Azst6hLEx4qP39NNRROr-10" value="7. gestante" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Azst6hLEx4qP39NNRROr-8" target="Azst6hLEx4qP39NNRROr-7" edge="1">
           <mxGeometry x="0.0051" relative="1" as="geometry">
             <mxPoint x="375" y="190" as="targetPoint" />
             <mxPoint x="660" y="190" as="sourcePoint" />
@@ -362,7 +349,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-11" value="8. gestante" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="Azst6hLEx4qP39NNRROr-7" target="e4PoHNpziZCP2AX3NT2B-3">
+        <mxCell id="Azst6hLEx4qP39NNRROr-11" value="8. gestante" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="Azst6hLEx4qP39NNRROr-7" target="e4PoHNpziZCP2AX3NT2B-3" edge="1">
           <mxGeometry x="0.0051" relative="1" as="geometry">
             <mxPoint x="375" y="270" as="targetPoint" />
             <mxPoint x="655" y="270" as="sourcePoint" />
@@ -372,19 +359,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Azst6hLEx4qP39NNRROr-15" value="22. response: TratamentoSifilis[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-8" target="RKtHpUoWIbDAhqsyf1Fh-1">
+        <mxCell id="Azst6hLEx4qP39NNRROr-15" value="22. response: TratamentoSifilis[]" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" target="RKtHpUoWIbDAhqsyf1Fh-1" edge="1">
           <mxGeometry x="0.0049" relative="1" as="geometry">
             <mxPoint x="95" y="830" as="targetPoint" />
-            <mxPoint x="375" y="830" as="sourcePoint" />
+            <mxPoint x="55" y="400.0499999999997" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="100" y="840" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-6" value="11. buscarTratamentoSifilis(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" edge="1" parent="1" source="e4PoHNpziZCP2AX3NT2B-8" target="e4PoHNpziZCP2AX3NT2B-16">
+        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-6" value="11. buscarTratamentoSifilis(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;dashed=1;" parent="1" target="e4PoHNpziZCP2AX3NT2B-16" edge="1">
           <mxGeometry x="-0.0048" relative="1" as="geometry">
-            <mxPoint x="375" y="460" as="sourcePoint" />
+            <mxPoint x="55" y="479.9999999999998" as="sourcePoint" />
             <mxPoint as="offset" />
             <Array as="points">
               <mxPoint x="540" y="480" />
@@ -392,7 +379,7 @@
             <mxPoint x="655" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-2" value="&lt;div&gt;9. buscarTodasConsultas(gestante)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="RKtHpUoWIbDAhqsyf1Fh-1">
+        <mxCell id="RKtHpUoWIbDAhqsyf1Fh-2" value="&lt;div&gt;9. buscarTodasConsultas(gestante)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="RKtHpUoWIbDAhqsyf1Fh-1" edge="1">
           <mxGeometry x="0.0029" relative="1" as="geometry">
             <mxPoint x="150" y="400.38" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -402,8 +389,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="t93jXLv9Rhtei3cWcK3W" name="Página-3">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="t93jXLv9Rhtei3cWcK3W" name="criarConsulta">
+    <mxGraphModel dx="1674" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
