@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7" pages="4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7" pages="5">
   <diagram name="criar Operador" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
     <mxGraphModel dx="441" dy="357" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -543,7 +543,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ljVtfShrs0UFk30f9nCM-2" value="admin: Operador" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="100" y="60" width="100" height="360" as="geometry" />
+          <mxGeometry x="100" y="60" width="100" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ljVtfShrs0UFk30f9nCM-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ljVtfShrs0UFk30f9nCM-2">
           <mxGeometry x="45" y="80" width="10" height="260" as="geometry" />
@@ -558,7 +558,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ljVtfShrs0UFk30f9nCM-5" value="Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="314" y="55" width="100" height="365" as="geometry" />
+          <mxGeometry x="314" y="55" width="100" height="355" as="geometry" />
         </mxCell>
         <mxCell id="ljVtfShrs0UFk30f9nCM-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ljVtfShrs0UFk30f9nCM-5">
           <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
@@ -577,7 +577,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ljVtfShrs0UFk30f9nCM-11" value="dados: BancoDados" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="510" y="60" width="100" height="360" as="geometry" />
+          <mxGeometry x="510" y="60" width="100" height="350" as="geometry" />
         </mxCell>
         <mxCell id="ljVtfShrs0UFk30f9nCM-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="ljVtfShrs0UFk30f9nCM-11">
           <mxGeometry x="45" y="90" width="10" height="30" as="geometry" />
@@ -614,7 +614,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-20" value="11. response: int" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="ljVtfShrs0UFk30f9nCM-13" target="ljVtfShrs0UFk30f9nCM-7">
+        <mxCell id="ljVtfShrs0UFk30f9nCM-20" value="8. response: int" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="ljVtfShrs0UFk30f9nCM-13" target="ljVtfShrs0UFk30f9nCM-7">
           <mxGeometry x="0.002" relative="1" as="geometry">
             <mxPoint x="369" y="380" as="targetPoint" />
             <mxPoint x="559" y="440" as="sourcePoint" />
@@ -624,7 +624,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-18" value="10. gravar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="ljVtfShrs0UFk30f9nCM-7" target="ljVtfShrs0UFk30f9nCM-13">
+        <mxCell id="ljVtfShrs0UFk30f9nCM-18" value="7. gravar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="ljVtfShrs0UFk30f9nCM-7" target="ljVtfShrs0UFk30f9nCM-13">
           <mxGeometry x="0.0271" relative="1" as="geometry">
             <mxPoint x="369" y="410" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -634,7 +634,7 @@
             <mxPoint x="484" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-16" value="12. resultado da operação" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="ljVtfShrs0UFk30f9nCM-7" target="ljVtfShrs0UFk30f9nCM-3">
+        <mxCell id="ljVtfShrs0UFk30f9nCM-16" value="9. resultado da operação" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="ljVtfShrs0UFk30f9nCM-7" target="ljVtfShrs0UFk30f9nCM-3">
           <mxGeometry x="-0.025" relative="1" as="geometry">
             <mxPoint x="159" y="470" as="targetPoint" />
             <mxPoint x="359" y="470" as="sourcePoint" />
@@ -644,6 +644,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="8pmMqYxvUbF8OpR5UBL_" name="crudGestante">
+    <mxGraphModel dx="1674" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
