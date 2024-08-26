@@ -541,26 +541,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fqpV0-o2XKtq8Ui4J6Q0-18" value="10. gravar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="fqpV0-o2XKtq8Ui4J6Q0-7" target="fqpV0-o2XKtq8Ui4J6Q0-13" edge="1">
-          <mxGeometry x="0.0271" relative="1" as="geometry">
-            <mxPoint x="359.70000000000005" y="550" as="sourcePoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="470" y="510" />
-            </Array>
-            <mxPoint x="480" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fqpV0-o2XKtq8Ui4J6Q0-20" value="11. response: int" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="fqpV0-o2XKtq8Ui4J6Q0-13" target="fqpV0-o2XKtq8Ui4J6Q0-7" edge="1">
-          <mxGeometry x="0.0043" relative="1" as="geometry">
-            <mxPoint x="365" y="580" as="targetPoint" />
-            <mxPoint x="555" y="580" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="440" y="540" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tF7c2Noxj-mhGmAMR5Ld-2" value="&lt;div&gt;4. listarEquipes()&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="fqpV0-o2XKtq8Ui4J6Q0-6" target="tF7c2Noxj-mhGmAMR5Ld-3" edge="1">
           <mxGeometry x="0.0004" relative="1" as="geometry">
             <mxPoint x="375" y="160" as="sourcePoint" />
