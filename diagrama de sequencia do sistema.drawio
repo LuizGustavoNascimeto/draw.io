@@ -398,11 +398,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t93jXLv9Rhtei3cWcK3W" name="criarConsulta">
-    <mxGraphModel dx="926" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1154" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TRa_ME_vkdSFod6F84u--1" value="5. cadastrarConsulta(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="TRa_ME_vkdSFod6F84u--3" target="TRa_ME_vkdSFod6F84u--8">
+        <mxCell id="TRa_ME_vkdSFod6F84u--1" value="5. cadastrarConsulta(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--3" target="TRa_ME_vkdSFod6F84u--8" edge="1">
           <mxGeometry x="0.1214" relative="1" as="geometry">
             <mxPoint x="230" y="240" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -412,13 +412,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--2" value="op: Operador" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="TRa_ME_vkdSFod6F84u--2" value="op: Operador" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="60" width="100" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="TRa_ME_vkdSFod6F84u--2">
+        <mxCell id="TRa_ME_vkdSFod6F84u--3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="TRa_ME_vkdSFod6F84u--2" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--5" value="&lt;div&gt;1. criarConsulta&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="TRa_ME_vkdSFod6F84u--3" target="TRa_ME_vkdSFod6F84u--7">
+        <mxCell id="TRa_ME_vkdSFod6F84u--5" value="&lt;div&gt;1. atualizar ou criar gestante&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--3" target="TRa_ME_vkdSFod6F84u--7" edge="1">
           <mxGeometry x="0.0017" relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -427,16 +427,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--6" value="Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="TRa_ME_vkdSFod6F84u--6" value="Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="340" y="60" width="100" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="TRa_ME_vkdSFod6F84u--6">
+        <mxCell id="TRa_ME_vkdSFod6F84u--7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="TRa_ME_vkdSFod6F84u--6" vertex="1">
           <mxGeometry x="45" y="80" width="10" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="TRa_ME_vkdSFod6F84u--6">
+        <mxCell id="TRa_ME_vkdSFod6F84u--8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="TRa_ME_vkdSFod6F84u--6" vertex="1">
           <mxGeometry x="45" y="160" width="10" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--9" value="6. validarDados(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=1.06;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="TRa_ME_vkdSFod6F84u--6">
+        <mxCell id="TRa_ME_vkdSFod6F84u--9" value="6. validarDados(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=1.06;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" parent="TRa_ME_vkdSFod6F84u--6" edge="1">
           <mxGeometry x="-0.3508" y="30" relative="1" as="geometry">
             <mxPoint x="54.99999999999977" y="169.9999999999999" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -446,7 +446,7 @@
             <mxPoint x="55.89000000000002" y="230.31690000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--10" value="7. criar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" edge="1" parent="TRa_ME_vkdSFod6F84u--6">
+        <mxCell id="TRa_ME_vkdSFod6F84u--10" value="7. criar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="TRa_ME_vkdSFod6F84u--6" edge="1">
           <mxGeometry x="-0.2778" y="10" relative="1" as="geometry">
             <mxPoint x="54.99999999999977" y="259.9999999999999" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -456,16 +456,16 @@
             <mxPoint x="54.99999999999977" y="309.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--12" value="dados: BancoDados" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="TRa_ME_vkdSFod6F84u--12" value="dados: BancoDados" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="540" y="60" width="100" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="TRa_ME_vkdSFod6F84u--12">
+        <mxCell id="TRa_ME_vkdSFod6F84u--14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="TRa_ME_vkdSFod6F84u--12" vertex="1">
           <mxGeometry x="45" y="370" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="TRa_ME_vkdSFod6F84u--12">
+        <mxCell id="TRa_ME_vkdSFod6F84u--15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="TRa_ME_vkdSFod6F84u--12" vertex="1">
           <mxGeometry x="45" y="90" width="10" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--17" value="10. resultado da operação" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="TRa_ME_vkdSFod6F84u--8" target="TRa_ME_vkdSFod6F84u--3">
+        <mxCell id="TRa_ME_vkdSFod6F84u--17" value="10. resultado da operação" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--8" target="TRa_ME_vkdSFod6F84u--3" edge="1">
           <mxGeometry x="-0.0269" relative="1" as="geometry">
             <mxPoint x="170" y="560" as="targetPoint" />
             <mxPoint x="545" y="550" as="sourcePoint" />
@@ -475,7 +475,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--18" value="&lt;div&gt;2. listarTipoConsulta()&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="TRa_ME_vkdSFod6F84u--7" target="TRa_ME_vkdSFod6F84u--15">
+        <mxCell id="TRa_ME_vkdSFod6F84u--18" value="&lt;div&gt;2. listarGestantes()&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--7" target="TRa_ME_vkdSFod6F84u--15" edge="1">
           <mxGeometry x="0.0004" relative="1" as="geometry">
             <mxPoint x="405" y="150" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -484,7 +484,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--19" value="8. gravar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="TRa_ME_vkdSFod6F84u--8" target="TRa_ME_vkdSFod6F84u--14">
+        <mxCell id="TRa_ME_vkdSFod6F84u--19" value="8. gravar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--8" target="TRa_ME_vkdSFod6F84u--14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="389.70000000000005" y="500" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -494,7 +494,7 @@
             <mxPoint x="510" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--20" value="3. lista dos tipos consultas" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="TRa_ME_vkdSFod6F84u--15" target="TRa_ME_vkdSFod6F84u--7">
+        <mxCell id="TRa_ME_vkdSFod6F84u--20" value="3. lista das gestantes" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--15" target="TRa_ME_vkdSFod6F84u--7" edge="1">
           <mxGeometry x="0.0044" relative="1" as="geometry">
             <mxPoint x="395" y="180" as="targetPoint" />
             <mxPoint x="590" y="180" as="sourcePoint" />
@@ -504,7 +504,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--21" value="9. response: int" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="TRa_ME_vkdSFod6F84u--14" target="TRa_ME_vkdSFod6F84u--8">
+        <mxCell id="TRa_ME_vkdSFod6F84u--21" value="9. response: int" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--14" target="TRa_ME_vkdSFod6F84u--8" edge="1">
           <mxGeometry x="0.002" relative="1" as="geometry">
             <mxPoint x="395" y="530" as="targetPoint" />
             <mxPoint x="585" y="530" as="sourcePoint" />
@@ -514,7 +514,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TRa_ME_vkdSFod6F84u--4" value="4. lista dos tipos consultas" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" target="TRa_ME_vkdSFod6F84u--3" source="TRa_ME_vkdSFod6F84u--7">
+        <mxCell id="TRa_ME_vkdSFod6F84u--4" value="4. lista dos tipos consultas" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--7" target="TRa_ME_vkdSFod6F84u--3" edge="1">
           <mxGeometry x="0.0044" relative="1" as="geometry">
             <mxPoint x="155" y="190" as="targetPoint" />
             <mxPoint x="350" y="190" as="sourcePoint" />
