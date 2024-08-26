@@ -466,7 +466,7 @@
           <mxGeometry x="45" y="90" width="10" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TRa_ME_vkdSFod6F84u--17" value="10. resultado da operação" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="TRa_ME_vkdSFod6F84u--8" target="TRa_ME_vkdSFod6F84u--3" edge="1">
-          <mxGeometry x="-0.0269" relative="1" as="geometry">
+          <mxGeometry x="-0.0285" relative="1" as="geometry">
             <mxPoint x="170" y="560" as="targetPoint" />
             <mxPoint x="545" y="550" as="sourcePoint" />
             <Array as="points">
