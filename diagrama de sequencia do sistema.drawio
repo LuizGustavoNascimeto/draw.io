@@ -160,7 +160,10 @@
           <mxGeometry x="100" y="60" width="100" height="540" as="geometry" />
         </mxCell>
         <mxCell id="zcJgWiz9v-39RJP9aTRo-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="zcJgWiz9v-39RJP9aTRo-2">
-          <mxGeometry x="45" y="80" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="80" width="10" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="zcJgWiz9v-39RJP9aTRo-2">
+          <mxGeometry x="45" y="250" width="10" height="250" as="geometry" />
         </mxCell>
         <mxCell id="zcJgWiz9v-39RJP9aTRo-4" value="&lt;div&gt;1. buscarPorNome(nome)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="zcJgWiz9v-39RJP9aTRo-3" target="zcJgWiz9v-39RJP9aTRo-6">
           <mxGeometry relative="1" as="geometry">
@@ -228,7 +231,7 @@
             <mxPoint x="364" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-4" value="&lt;div&gt;1. buscarPorNome(nome)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="CyjDs7a1wHFE41ynFKTp-1" target="CyjDs7a1wHFE41ynFKTp-2">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-4" value="&lt;div&gt;6. buscarPorId(id)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="CyjDs7a1wHFE41ynFKTp-1" target="CyjDs7a1wHFE41ynFKTp-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="300" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -238,8 +241,8 @@
             <mxPoint x="564" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-5" value="4. lista das gestantes" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="CyjDs7a1wHFE41ynFKTp-2" target="CyjDs7a1wHFE41ynFKTp-1">
-          <mxGeometry x="0.0044" relative="1" as="geometry">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-5" value="7. gestante" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="CyjDs7a1wHFE41ynFKTp-2" target="CyjDs7a1wHFE41ynFKTp-1">
+          <mxGeometry x="0.0015" relative="1" as="geometry">
             <mxPoint x="340" y="300" as="targetPoint" />
             <mxPoint x="544" y="300" as="sourcePoint" />
             <Array as="points">
@@ -248,7 +251,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-6" value="4. lista das gestantes" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="CyjDs7a1wHFE41ynFKTp-1" target="zcJgWiz9v-39RJP9aTRo-3">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-6" value="8. gestante" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="CyjDs7a1wHFE41ynFKTp-1" target="zcJgWiz9v-39RJP9aTRo-3">
           <mxGeometry x="0.0044" relative="1" as="geometry">
             <mxPoint x="160" y="329.71" as="targetPoint" />
             <mxPoint x="364" y="329.71" as="sourcePoint" />
