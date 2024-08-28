@@ -1,4 +1,80 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.7" pages="3">
+  <diagram id="5zzG0JV8Nk7geoMTUrKs" name="listarCidades">
+    <mxGraphModel dx="639" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-1" value=":DAOCidade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="dj3vKbC7u6DYyHgSpXgB-8" target="dj3vKbC7u6DYyHgSpXgB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="dj3vKbC7u6DYyHgSpXgB-6" target="dj3vKbC7u6DYyHgSpXgB-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-8" value="&lt;div&gt;:MngCidade&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dj3vKbC7u6DYyHgSpXgB-6">
+          <mxGeometry y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-9" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="dj3vKbC7u6DYyHgSpXgB-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="74" y="40" as="sourcePoint" />
+            <mxPoint x="74" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-10" value="listarCidades()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="dj3vKbC7u6DYyHgSpXgB-9">
+          <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
+            <mxPoint x="47" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFyR8AswWAWkfd3C94d1-5" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="dj3vKbC7u6DYyHgSpXgB-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="40" as="sourcePoint" />
+            <mxPoint x="50" y="40" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFyR8AswWAWkfd3C94d1-6" value="&lt;div align=&quot;justify&quot;&gt;3 lista com as cidades&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="zFyR8AswWAWkfd3C94d1-5">
+          <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
+            <mxPoint x="-69" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-15" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="440" as="sourcePoint" />
+            <mxPoint x="610" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-16" value="1 getCidades()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=0;" vertex="1" connectable="0" parent="dj3vKbC7u6DYyHgSpXgB-15">
+          <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
+            <mxPoint x="16" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFyR8AswWAWkfd3C94d1-1" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="499.67" as="sourcePoint" />
+            <mxPoint x="530" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="610" y="499.67" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zFyR8AswWAWkfd3C94d1-2" value="&lt;div&gt;2 retorna uma lista com as cidades&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=0;" vertex="1" connectable="0" parent="zFyR8AswWAWkfd3C94d1-1">
+          <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
+            <mxPoint x="-20" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
   <diagram name="Criar Operador" id="feTvoyzDVtde21yJjW31">
     <mxGraphModel dx="639" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,80 +165,15 @@
             <mxPoint x="11" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="5zzG0JV8Nk7geoMTUrKs" name="listarCidades">
-    <mxGraphModel dx="639" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-1" value=":DAOCidade" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="dj3vKbC7u6DYyHgSpXgB-8" target="dj3vKbC7u6DYyHgSpXgB-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-6" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340" y="320" width="120" height="180" as="geometry" />
-        </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="dj3vKbC7u6DYyHgSpXgB-6" target="dj3vKbC7u6DYyHgSpXgB-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="60" as="sourcePoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-8" value="&lt;div&gt;:MngCidade&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dj3vKbC7u6DYyHgSpXgB-6">
-          <mxGeometry y="120" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-9" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="dj3vKbC7u6DYyHgSpXgB-6">
+        <mxCell id="_luIgHaWr85krL77kOE6-1" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="74" y="40" as="sourcePoint" />
-            <mxPoint x="74" y="80" as="targetPoint" />
+            <mxPoint x="440" y="530" as="sourcePoint" />
+            <mxPoint x="440" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-10" value="listarCidades()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="dj3vKbC7u6DYyHgSpXgB-9">
-          <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
-            <mxPoint x="47" y="6" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zFyR8AswWAWkfd3C94d1-5" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="dj3vKbC7u6DYyHgSpXgB-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="50" y="40" as="sourcePoint" />
-            <mxPoint x="50" y="40" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="50" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zFyR8AswWAWkfd3C94d1-6" value="&lt;div align=&quot;justify&quot;&gt;3 lista com as cidades&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="zFyR8AswWAWkfd3C94d1-5">
-          <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
-            <mxPoint x="-69" y="-9" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-15" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="440" as="sourcePoint" />
-            <mxPoint x="610" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-16" value="1 getCidades()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=0;" vertex="1" connectable="0" parent="dj3vKbC7u6DYyHgSpXgB-15">
-          <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
-            <mxPoint x="16" y="-19" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zFyR8AswWAWkfd3C94d1-1" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="540" y="499.67" as="sourcePoint" />
-            <mxPoint x="530" y="500" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="610" y="499.67" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zFyR8AswWAWkfd3C94d1-2" value="&lt;div&gt;2 retorna uma lista com as cidades&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=0;" vertex="1" connectable="0" parent="zFyR8AswWAWkfd3C94d1-1">
-          <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
-            <mxPoint x="-20" y="20" as="offset" />
+        <mxCell id="_luIgHaWr85krL77kOE6-2" value="&lt;div align=&quot;justify&quot;&gt;3 &lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;+ getNome(): String \n+ setNome(nome: String): void\n+ getEmail(): String \n+ setEmail(email: String): void\n+ getSenha(): String\n+ setSenha(senha: String): void\n+ getNivel(): String\n+ setNivel(nivel: String): void   &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:21,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:51,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:73,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:105,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:126,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:158,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:179,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span&gt;setNome(nome)&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;+ getNome(): String \n+ setNome(nome: String): void\n+ getEmail(): String \n+ setEmail(email: String): void\n+ getSenha(): String\n+ setSenha(senha: String): void\n+ getNivel(): String\n+ setNivel(nivel: String): void   &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:21,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:51,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:73,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:105,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:126,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:158,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:179,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span&gt;4 setEmail(email)&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;+ getNome(): String \n+ setNome(nome: String): void\n+ getEmail(): String \n+ setEmail(email: String): void\n+ getSenha(): String\n+ setSenha(senha: String): void\n+ getNivel(): String\n+ setNivel(nivel: String): void   &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:21,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:51,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:73,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:105,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:126,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:158,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:179,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div align=&quot;justify&quot;&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;+ getNome(): String \n+ setNome(nome: String): void\n+ getEmail(): String \n+ setEmail(email: String): void\n+ getSenha(): String\n+ setSenha(senha: String): void\n+ getNivel(): String\n+ setNivel(nivel: String): void   &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:21,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:51,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:73,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:105,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:126,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:158,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:179,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span&gt;5 setSenha(senha)&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;span data-lucid-content=&quot;{&amp;quot;t&amp;quot;:&amp;quot;+ getNome(): String \n+ setNome(nome: String): void\n+ getEmail(): String \n+ setEmail(email: String): void\n+ getSenha(): String\n+ setSenha(senha: String): void\n+ getNivel(): String\n+ setNivel(nivel: String): void   &amp;quot;,&amp;quot;m&amp;quot;:[{&amp;quot;s&amp;quot;:0,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:21,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:51,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:73,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:105,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:126,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:158,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;},{&amp;quot;s&amp;quot;:179,&amp;quot;n&amp;quot;:&amp;quot;a&amp;quot;,&amp;quot;v&amp;quot;:&amp;quot;left&amp;quot;}]}&quot; data-lucid-type=&quot;application/vnd.lucid.text&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;6 setPermissoes(permissoes)   &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="_luIgHaWr85krL77kOE6-1">
+          <mxGeometry x="-0.425" y="-1" relative="1" as="geometry">
+            <mxPoint x="11" y="17" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
