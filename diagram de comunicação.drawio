@@ -93,7 +93,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5zzG0JV8Nk7geoMTUrKs" name="listarCidades">
-    <mxGraphModel dx="178" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="639" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,7 +146,7 @@
             <mxPoint x="610" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dj3vKbC7u6DYyHgSpXgB-16" value="1 listarCidades()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=0;" vertex="1" connectable="0" parent="dj3vKbC7u6DYyHgSpXgB-15">
+        <mxCell id="dj3vKbC7u6DYyHgSpXgB-16" value="1 getCidades()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;rotation=0;" vertex="1" connectable="0" parent="dj3vKbC7u6DYyHgSpXgB-15">
           <mxGeometry x="-0.2786" y="-1" relative="1" as="geometry">
             <mxPoint x="16" y="-19" as="offset" />
           </mxGeometry>
