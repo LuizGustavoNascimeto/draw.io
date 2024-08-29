@@ -590,7 +590,7 @@
         <mxCell id="-ulXqsYqQg2x7JJbSUEV-1" value=":DAOGestante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-ulXqsYqQg2x7JJbSUEV-2" value=":DAOConsulta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ulXqsYqQg2x7JJbSUEV-2" value=":DAOGestante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-ulXqsYqQg2x7JJbSUEV-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="-ulXqsYqQg2x7JJbSUEV-5" target="-ulXqsYqQg2x7JJbSUEV-15">
@@ -602,7 +602,7 @@
         <mxCell id="-ulXqsYqQg2x7JJbSUEV-5" value=":Gestante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-ulXqsYqQg2x7JJbSUEV-6" value=":Consulta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ulXqsYqQg2x7JJbSUEV-6" value=":Gestante" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-ulXqsYqQg2x7JJbSUEV-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="-ulXqsYqQg2x7JJbSUEV-15" target="-ulXqsYqQg2x7JJbSUEV-1">
@@ -655,7 +655,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-ulXqsYqQg2x7JJbSUEV-20" value="&lt;div&gt;:MngConsulta&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-ulXqsYqQg2x7JJbSUEV-18">
+        <mxCell id="-ulXqsYqQg2x7JJbSUEV-20" value="&lt;div&gt;:MngGestante&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="-ulXqsYqQg2x7JJbSUEV-18">
           <mxGeometry y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-ulXqsYqQg2x7JJbSUEV-21" value="" style="endArrow=block;html=1;rounded=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="-ulXqsYqQg2x7JJbSUEV-18">
