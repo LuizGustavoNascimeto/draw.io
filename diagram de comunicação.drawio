@@ -336,8 +336,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gRN0n2w-QvsK0GuOnqY8-1" value=":DAOConsulta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="gRN0n2w-QvsK0GuOnqY8-1" value=": DAOTratamentoSifilis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="430" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gRN0n2w-QvsK0GuOnqY8-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;" edge="1" parent="1" source="gRN0n2w-QvsK0GuOnqY8-5" target="gRN0n2w-QvsK0GuOnqY8-1">
           <mxGeometry relative="1" as="geometry" />
