@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="24.7.13">
   <diagram name="Page-1" id="a7904f86-f2b4-8e86-fa97-74104820619b">
-    <mxGraphModel dx="1395" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -285,10 +285,10 @@
         <mxCell id="aXAF0FD7jm9cenvR7DQU-155" value="Categoria" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="aXAF0FD7jm9cenvR7DQU-151" vertex="1">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aXAF0FD7jm9cenvR7DQU-167" value="" style="endArrow=none;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.99;exitY=0.685;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="aXAF0FD7jm9cenvR7DQU-8" target="aXAF0FD7jm9cenvR7DQU-64" edge="1">
+        <mxCell id="aXAF0FD7jm9cenvR7DQU-167" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.99;entryY=0.685;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" source="aXAF0FD7jm9cenvR7DQU-64" target="aXAF0FD7jm9cenvR7DQU-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="290" as="sourcePoint" />
-            <mxPoint x="650" y="290" as="targetPoint" />
+            <mxPoint x="650" y="290" as="sourcePoint" />
+            <mxPoint x="410" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aXAF0FD7jm9cenvR7DQU-168" value="Reside em" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" parent="aXAF0FD7jm9cenvR7DQU-167" connectable="0" vertex="1">
@@ -298,12 +298,12 @@
         </mxCell>
         <mxCell id="aXAF0FD7jm9cenvR7DQU-169" value="1.1" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" parent="aXAF0FD7jm9cenvR7DQU-167" connectable="0" vertex="1">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="10" as="offset" />
+            <mxPoint x="-122" y="-230" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aXAF0FD7jm9cenvR7DQU-170" value="0.*" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;rotation=0;" parent="aXAF0FD7jm9cenvR7DQU-167" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-12" y="-10" as="offset" />
+            <mxPoint x="161" y="229" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="aXAF0FD7jm9cenvR7DQU-173" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="1" source="aXAF0FD7jm9cenvR7DQU-7" target="aXAF0FD7jm9cenvR7DQU-55" edge="1">
