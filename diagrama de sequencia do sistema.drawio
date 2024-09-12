@@ -157,7 +157,7 @@
             <mxPoint x="355" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-14" value="8. buscarConsultaOdonto(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;dashed=1;" parent="zcJgWiz9v-39RJP9aTRo-5" edge="1">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-14" value="9. buscarConsultaOdonto(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;dashed=1;" parent="zcJgWiz9v-39RJP9aTRo-5" edge="1">
           <mxGeometry x="-0.4167" y="90" relative="1" as="geometry">
             <mxPoint x="55" y="350" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -167,7 +167,7 @@
             <mxPoint x="55" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-16" value="9. buscarConsultaEspecializado(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;dashed=1;" parent="zcJgWiz9v-39RJP9aTRo-5" edge="1">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-16" value="10. buscarConsultaEspecializado(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;dashed=1;" parent="zcJgWiz9v-39RJP9aTRo-5" edge="1">
           <mxGeometry x="-0.4137" y="110" relative="1" as="geometry">
             <mxPoint x="55" y="420" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -177,7 +177,7 @@
             <mxPoint x="55" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pR3PL9LEeyim4mmXm-sy-2" value="10. buscarTratamentoSifilis(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;dashed=1;" edge="1" parent="zcJgWiz9v-39RJP9aTRo-5">
+        <mxCell id="pR3PL9LEeyim4mmXm-sy-2" value="11. buscarTratamentoSifilis(gestante)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;dashed=1;" edge="1" parent="zcJgWiz9v-39RJP9aTRo-5">
           <mxGeometry x="-0.4137" y="90" relative="1" as="geometry">
             <mxPoint x="55" y="490" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -217,7 +217,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-8" value="&lt;div&gt;6. buscarTodasConsultas(gestante)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="CyjDs7a1wHFE41ynFKTp-7" target="CyjDs7a1wHFE41ynFKTp-9" edge="1">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-8" value="&lt;div&gt;7. buscarTodasConsultas(gestante)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="CyjDs7a1wHFE41ynFKTp-7" target="CyjDs7a1wHFE41ynFKTp-9" edge="1">
           <mxGeometry x="0.0028" relative="1" as="geometry">
             <mxPoint x="170" y="350" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -227,7 +227,7 @@
             <mxPoint x="374" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-12" value="&lt;div&gt;7. validarDados(id)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" parent="1" edge="1">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-12" value="&lt;div&gt;8. validarDados(id)&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" parent="1" edge="1">
           <mxGeometry x="-0.3998" y="20" relative="1" as="geometry">
             <mxPoint x="375" y="330" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -238,7 +238,7 @@
             <mxPoint x="375" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-24" value="11. resposta: ConsultasEspecializado" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" source="CyjDs7a1wHFE41ynFKTp-9" target="CyjDs7a1wHFE41ynFKTp-7" edge="1">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-24" value="12. resposta: ConsultasEspecializado" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;" parent="1" source="CyjDs7a1wHFE41ynFKTp-9" target="CyjDs7a1wHFE41ynFKTp-7" edge="1">
           <mxGeometry x="0.0019" relative="1" as="geometry">
             <mxPoint x="75" y="550" as="targetPoint" />
             <mxPoint x="375" y="550" as="sourcePoint" />
@@ -248,8 +248,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-28" value="13. resposta: TratamentosSifilis" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="CyjDs7a1wHFE41ynFKTp-9" target="CyjDs7a1wHFE41ynFKTp-7" edge="1">
-          <mxGeometry x="0.0015" relative="1" as="geometry">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-28" value="14. resposta: TratamentosSifilis" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="CyjDs7a1wHFE41ynFKTp-9" target="CyjDs7a1wHFE41ynFKTp-7" edge="1">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
             <mxPoint x="130" y="630" as="targetPoint" />
             <mxPoint x="430" y="630" as="sourcePoint" />
             <Array as="points">
@@ -258,8 +258,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CyjDs7a1wHFE41ynFKTp-26" value="12. resposta: ConsultasOdonto" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="CyjDs7a1wHFE41ynFKTp-9" target="CyjDs7a1wHFE41ynFKTp-7" edge="1">
-          <mxGeometry x="0.0015" relative="1" as="geometry">
+        <mxCell id="CyjDs7a1wHFE41ynFKTp-26" value="13. resposta: ConsultasOdonto" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="CyjDs7a1wHFE41ynFKTp-9" target="CyjDs7a1wHFE41ynFKTp-7" edge="1">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
             <mxPoint x="75" y="580" as="targetPoint" />
             <mxPoint x="370" y="580" as="sourcePoint" />
             <Array as="points">
