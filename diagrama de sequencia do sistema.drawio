@@ -443,11 +443,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0hPOosi00iP-VLK6jgAP" name="gerenciarPermissões">
-    <mxGraphModel dx="1674" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="957" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ljVtfShrs0UFk30f9nCM-1" value="5. atualizarOperador(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-3" target="ljVtfShrs0UFk30f9nCM-7" edge="1">
+        <mxCell id="ljVtfShrs0UFk30f9nCM-1" value="4. atualizarOperador(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-3" target="ljVtfShrs0UFk30f9nCM-7" edge="1">
           <mxGeometry x="0.1214" relative="1" as="geometry">
             <mxPoint x="230" y="240" as="sourcePoint" />
             <mxPoint as="offset" />
@@ -481,45 +481,38 @@
         <mxCell id="ljVtfShrs0UFk30f9nCM-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="ljVtfShrs0UFk30f9nCM-5" vertex="1">
           <mxGeometry x="45" y="160" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-8" value="6. validarDados(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=1.06;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ljVtfShrs0UFk30f9nCM-5" edge="1">
-          <mxGeometry x="-0.3508" y="20" relative="1" as="geometry">
+        <mxCell id="ljVtfShrs0UFk30f9nCM-8" value="5. validarDados(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=horizontal;entryX=1.06;entryY=0.531;entryDx=0;entryDy=0;entryPerimeter=0;" parent="ljVtfShrs0UFk30f9nCM-5" edge="1">
+          <mxGeometry x="-0.3508" y="26" relative="1" as="geometry">
             <mxPoint x="54.99999999999977" y="169.9999999999999" as="sourcePoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="110" y="170" />
+              <mxPoint x="106" y="205" />
             </Array>
             <mxPoint x="55.89000000000002" y="230.31690000000003" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-11" value="dados: BancoDados" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
-          <mxGeometry x="510" y="60" width="100" height="350" as="geometry" />
-        </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-14" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="ljVtfShrs0UFk30f9nCM-11" vertex="1">
-          <mxGeometry x="45" y="90" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-13" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="ljVtfShrs0UFk30f9nCM-11" vertex="1">
-          <mxGeometry x="45" y="270" width="10" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-17" value="&lt;div&gt;2. listarOperadores()&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-6" target="ljVtfShrs0UFk30f9nCM-14" edge="1">
-          <mxGeometry x="0.0004" relative="1" as="geometry">
-            <mxPoint x="375" y="150" as="sourcePoint" />
+        <mxCell id="ljVtfShrs0UFk30f9nCM-17" value="&lt;div&gt;2. listarOperadores()&lt;br&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="ljVtfShrs0UFk30f9nCM-5" source="ljVtfShrs0UFk30f9nCM-6" target="ljVtfShrs0UFk30f9nCM-6" edge="1">
+          <mxGeometry x="-0.2679" y="30" relative="1" as="geometry">
+            <mxPoint x="61" y="95" as="sourcePoint" />
             <mxPoint as="offset" />
             <Array as="points">
-              <mxPoint x="460" y="150" />
+              <mxPoint x="96" y="125" />
             </Array>
+            <mxPoint x="241" y="95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-19" value="3. lista dos operadores" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-14" target="ljVtfShrs0UFk30f9nCM-6" edge="1">
-          <mxGeometry x="0.0044" relative="1" as="geometry">
-            <mxPoint x="365" y="180" as="targetPoint" />
-            <mxPoint x="560" y="180" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="420" y="180" />
-            </Array>
+        <mxCell id="ljVtfShrs0UFk30f9nCM-18" value="6. gravar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" parent="ljVtfShrs0UFk30f9nCM-5" target="ljVtfShrs0UFk30f9nCM-7" edge="1">
+          <mxGeometry x="-0.4225" y="20" relative="1" as="geometry">
+            <mxPoint x="55" y="255" as="sourcePoint" />
             <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="96" y="255" />
+              <mxPoint x="96" y="315" />
+            </Array>
+            <mxPoint x="55" y="295" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-21" value="4. lista dos operadores" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-6" target="ljVtfShrs0UFk30f9nCM-3" edge="1">
+        <mxCell id="ljVtfShrs0UFk30f9nCM-21" value="3. lista dos operadores" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-6" target="ljVtfShrs0UFk30f9nCM-3" edge="1">
           <mxGeometry x="0.0044" relative="1" as="geometry">
             <mxPoint x="155" y="190" as="targetPoint" />
             <mxPoint x="350" y="190" as="sourcePoint" />
@@ -529,27 +522,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-20" value="8. response: int" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-13" target="ljVtfShrs0UFk30f9nCM-7" edge="1">
-          <mxGeometry x="0.002" relative="1" as="geometry">
-            <mxPoint x="369" y="380" as="targetPoint" />
-            <mxPoint x="559" y="440" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="480" y="360" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-18" value="7. gravar(dados)" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-7" target="ljVtfShrs0UFk30f9nCM-13" edge="1">
-          <mxGeometry x="0.0271" relative="1" as="geometry">
-            <mxPoint x="369" y="410" as="sourcePoint" />
-            <mxPoint as="offset" />
-            <Array as="points">
-              <mxPoint x="400" y="330" />
-            </Array>
-            <mxPoint x="484" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ljVtfShrs0UFk30f9nCM-16" value="9. resultado da operação" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-7" target="ljVtfShrs0UFk30f9nCM-3" edge="1">
+        <mxCell id="ljVtfShrs0UFk30f9nCM-16" value="7. resultado da operação" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" source="ljVtfShrs0UFk30f9nCM-7" target="ljVtfShrs0UFk30f9nCM-3" edge="1">
           <mxGeometry x="-0.025" relative="1" as="geometry">
             <mxPoint x="159" y="470" as="targetPoint" />
             <mxPoint x="359" y="470" as="sourcePoint" />
