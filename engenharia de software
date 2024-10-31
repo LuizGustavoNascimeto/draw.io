@@ -27,13 +27,42 @@
           <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Uo2T53SoQ9vueWcN3RMR-14" value="&lt;h3 align=&quot;center&quot;&gt;ContaPoupança&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="610" width="190" height="150" as="geometry" />
+          <mxGeometry x="350" y="490" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Uo2T53SoQ9vueWcN3RMR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;filled=0;" edge="1" parent="1" source="Uo2T53SoQ9vueWcN3RMR-15" target="5d2195bd80daf111-19">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-15" value="&lt;h3 align=&quot;center&quot;&gt;ContaSalario&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bd: BancoDados&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="350" y="660" width="190" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Uo2T53SoQ9vueWcN3RMR-15" value="&lt;h3 align=&quot;center&quot;&gt;ContaSalario&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
-          <mxGeometry x="50" y="600" width="190" height="150" as="geometry" />
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-24" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uo2T53SoQ9vueWcN3RMR-15" target="5d2195bd80daf111-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="505" y="865" as="sourcePoint" />
+            <mxPoint x="399" y="865" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-26" value="0.*" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Uo2T53SoQ9vueWcN3RMR-24">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-25" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-27" value="1.1" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;rotation=0;" connectable="0" vertex="1" parent="Uo2T53SoQ9vueWcN3RMR-24">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="31" y="25" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-29" value="" style="endArrow=block;endFill=0;endSize=12;html=1;rounded=0;strokeColor=default;edgeStyle=orthogonalEdgeStyle;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Uo2T53SoQ9vueWcN3RMR-14" target="5d2195bd80daf111-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="515" y="875" as="sourcePoint" />
+            <mxPoint x="409" y="875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-30" value="0.*" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Uo2T53SoQ9vueWcN3RMR-29">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-25" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-31" value="1.1" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;rotation=0;" connectable="0" vertex="1" parent="Uo2T53SoQ9vueWcN3RMR-29">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="31" y="25" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
