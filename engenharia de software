@@ -14,6 +14,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="700" as="sourcePoint" />
             <mxPoint x="500" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="395" />
+              <mxPoint x="420" y="395" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Uo2T53SoQ9vueWcN3RMR-8" value="*" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="Uo2T53SoQ9vueWcN3RMR-7">
@@ -21,6 +25,15 @@
         </mxCell>
         <mxCell id="Uo2T53SoQ9vueWcN3RMR-9" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="Uo2T53SoQ9vueWcN3RMR-7">
           <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-14" value="&lt;h3 align=&quot;center&quot;&gt;ContaPoupança&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="320" y="610" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;filled=0;" edge="1" parent="1" source="Uo2T53SoQ9vueWcN3RMR-15" target="5d2195bd80daf111-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Uo2T53SoQ9vueWcN3RMR-15" value="&lt;h3 align=&quot;center&quot;&gt;ContaSalario&lt;br&gt;&lt;/h3&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="190" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
